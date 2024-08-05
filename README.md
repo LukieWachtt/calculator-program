@@ -25,7 +25,7 @@ Windows has a built in calculator that you can use.
 ## Usage
 
 Run the calculator via Terminal as follows:
-```powershell
+```
 dart run lib/system.dart
 ```
 
